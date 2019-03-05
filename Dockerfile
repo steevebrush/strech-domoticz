@@ -1,5 +1,5 @@
 FROM debian:stretch-slim
-LABEL maintainer="stéphane BROSSE <stevebrush@gmail.com>"
+LABEL maintainer="stéphane BROSSE <steevebrush@gmail.com>"
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV TIMEZONE Europe/Paris
